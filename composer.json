@@ -1,21 +1,7 @@
 {
-    "name": "jkphl/micrometa",
+    "name": "eborges78/micrometa",
     "description": "A meta parser for extracting micro information out of web documents, currently supporting Microformats 1+2, HTML Microdata, RDFa Lite 1.1 and JSON-LD",
-    "homepage": "https://jkphl.is/projects/micrometa/",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Joschi Kuphal",
-            "email": "joschi@tollwerk.de",
-            "homepage": "https://jkphl.is",
-            "role": "Developer"
-        }
-    ],
-    "support": {
-        "email": "joschi@tollwerk.de",
-        "source": "https://github.com/jkphl/micrometa",
-        "issues": "https://github.com/jkphl/micrometa/issues"
-    },
     "config": {
         "sort-packages": true
     },
